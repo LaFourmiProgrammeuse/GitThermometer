@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Menu.qml</file>
+        <file>resources/gitlab.png</file>
+        <file>resources/github.png</file>
+        <file>PlatformCharts.qml</file>
+        <file>resources/arrow_left.svg</file>
+        <file>resources/arrow_right.svg</file>
+        <file>Loading.qml</file>
+        <file>resources/Gear.gif</file>
+        <file>PlatformCharts.js</file>
+    </qresource>
+</RCC>
